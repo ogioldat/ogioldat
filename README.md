@@ -6,14 +6,18 @@
 </p>
 
 <p>😳 BTW, I started using Neovim</p>
-<img
-  align="right"
-  src="https://github.com/ogioldat/ogioldat/blob/1b4fe6bfb963b2fd20a155f055e1f32369eaedcd/monkey.gif"
-/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li>
     🔭 TODO
+  </li>
+
+  <li>
+    🧗‍♂️ 
+    <img
+      align="right"
+      src="https://github.com/ogioldat/ogioldat/blob/1b4fe6bfb963b2fd20a155f055e1f32369eaedcd/monkey.gif"
+    />
   </li>
 </ul>
 <!--
