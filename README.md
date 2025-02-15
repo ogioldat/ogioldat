@@ -13,6 +13,10 @@
   </li>
 
   <li>
+    🔥 Enjoyer of FromSoftware games.
+  </li>
+
+  <li>
     🧗‍♂️ When I don't code most likely I do stunts like this one ⬇️ at a bouldering gym.
   </li>
 </ul>
