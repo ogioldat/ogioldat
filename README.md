@@ -1,26 +1,14 @@
 # "Hello World!", I'm Tomek
 
-<p>
-  Dedicated software engineer, eager to learn and solve complex problems while
-  delivering cutting-edge solutions.
-</p>
+Dedicated Software Engineer, passionate about learning and solving complex problems while delivering cutting-edge solutions.
 
-<p>😳 BTW, I started using Neovim</p>
-<h2>⚡️ Quick facts about me:</h2>
-<ul>
-  <li>
-    💻 As a software engineer, I specialize in web applications. My key roles have included research & development, architecture improvement, and reducing technical debt.
-  </li>
+⚡️ Quick Facts About Me:
 
-  <li>
-    🔥 Enjoyer of FromSoftware games.
-  </li>
+- 💻 Web Application Specialist – I specialize in developing web applications, with a focus on R&D, architecture improvement, and reducing technical debt.
 
-  <li>
-    🧗‍♂️ When I don't code most likely I do stunts like this one ⬇️ at a bouldering gym.
-  </li>
-</ul>
+- 🔥 FromSoftware Enthusiast – Big fan of challenging games and immersive worlds.
 
+- 🧗‍♂️ Bouldering Addict – When I’m not coding, you’ll probably find me pulling off moves like this ⬇️ at the climbing gym.
 
 
 <div>
