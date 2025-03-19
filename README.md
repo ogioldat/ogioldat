@@ -1,14 +1,14 @@
 # "Hello World!", I'm Tomek
 
-Dedicated Software Engineer, passionate about learning and solving complex problems while delivering cutting-edge solutions.
+Quick facts about me:
 
-⚡️ Quick Facts About Me:
+- 💻 software engineer, with a focus on R&D, architecture, legacy code resolving,
 
-- 💻 Web Application Specialist – I specialize in developing web applications, with a focus on R&D, architecture improvement, and reducing technical debt.
+- 🧠 recently interested in RL field of ML,
 
-- 🔥 FromSoftware Enthusiast – Big fan of challenging games and immersive worlds.
+- 🔥 FromSoftware games enthusiast – the only thing that piss me off more then programming is Dark Souls Series (try not to agree),
 
-- 🧗‍♂️ Bouldering Addict – When I’m not coding, you’ll probably find me pulling off moves like this ⬇️ at the climbing gym.
+- 🧗‍♂️ bouldering buddy – you’ll probably find me pulling off moves like this at the climbing gym ⬇️
 
 
 <div>
