@@ -42,6 +42,12 @@ Quick facts about me:
     width="25"
     height="25"
   />
+    <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+    alt="go"
+    width="25"
+    height="25"
+  />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
     alt="mysql"
