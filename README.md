@@ -102,5 +102,33 @@ Quick facts about me:
     width="25"
     height="25"
   />
+    <!-- PyTorch -->
+<img
+  src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+  alt="PyTorch"
+  width="25"
+  height="25"
+/>
+<!-- Matplotlib -->
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
+  alt="Matplotlib"
+  width="25"
+  height="25"
+/>
+<!-- TensorFlow (neural nets) -->
+<img
+  src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+  alt="TensorFlow"
+  width="25"
+  height="25"
+/>
+<!-- Hugging Face (transformers) -->
+<img
+  src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+  alt="Hugging Face"
+  width="25"
+  height="25"
+/>
 </p>
 
