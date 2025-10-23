@@ -8,15 +8,9 @@ Quick facts about me:
 
 - 🧗‍♂️ bouldering buddy – you’ll probably find me pulling off moves like this at the climbing gym ⬇️
 
-<details>
-
-<summary>Watch sth cool</summary>
-
 <div>
-    <img width="300px"src="https://github.com/ogioldat/ogioldat/blob/1b4fe6bfb963b2fd20a155f055e1f32369eaedcd/monkey.gif" alt="Image description">
+    <img width="250px"src="https://github.com/ogioldat/ogioldat/blob/1b4fe6bfb963b2fd20a155f055e1f32369eaedcd/monkey.gif" alt="Image description">
 </div>
-
-</details>
 
 
 
