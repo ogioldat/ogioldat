@@ -2,11 +2,11 @@
 
 Quick facts about me:
 
-- 💻 software engineer, with a hands on experiance with R&D, architecture improvement & legacy code mitigation, cloud engineering, 
+- software engineer, with a hands on experiance with R&D, architecture improvement & legacy code mitigation, cloud engineering, 
 
-- 🔥 FromSoftware games enthusiast – the only thing that piss me off more than programming is Dark Souls Series (try not to agree),
+- FromSoftware games enthusiast – the only thing that piss me off more than programming is Dark Souls Series (try not to agree),
 
-- 🧗‍♂️ bouldering buddy – you’ll probably find me pulling off moves like this at the climbing gym ⬇️
+- bouldering buddy – you’ll probably find me pulling off moves like this at the climbing gym ⬇️
 
 <div>
     <img width="250px"src="https://github.com/ogioldat/ogioldat/blob/1b4fe6bfb963b2fd20a155f055e1f32369eaedcd/monkey.gif" alt="Image description">
@@ -16,7 +16,7 @@ Quick facts about me:
 
 
 
-<h2>🚀 Here are some of the tools that I use</h2>
+<h3>Here are some of the tools that I use</h2>
 <p align="left">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
