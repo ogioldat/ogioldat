@@ -17,118 +17,27 @@ Quick facts about me:
 
 
 <h3>Here are some of the tools that I use</h2>
-<p align="left">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-    alt="react"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-    alt="vue"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-    alt="mysql"
-    width="25"
-    height="25"
-  />
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-    alt="go"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
-    alt="mysql"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wasm/wasm-original.svg"
-    alt="wasm"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"
-    alt="wasm"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-    alt="redis"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
-    alt="python"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"
-    alt="aws"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-    alt="Docker"
-    width="25"
-    height="25"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-    alt="Kubernetes"
-    width="25"
-    height="25"
-  />
-    <!-- PyTorch -->
-<img
-  src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-  alt="PyTorch"
-  width="25"
-  height="25"
-/>
-<!-- Matplotlib -->
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
-  alt="Matplotlib"
-  width="25"
-  height="25"
-/>
-<!-- TensorFlow (neural nets) -->
-<img
-  src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-  alt="TensorFlow"
-  width="25"
-  height="25"
-/>
-<!-- Hugging Face (transformers) -->
-<img
-  src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
-  alt="Hugging Face"
-  width="25"
-  height="25"
-/>
-</p>
-
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wasm/wasm-original.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></td>
+    <td><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/></td>
+  </tr>
+</table>
